@@ -49,7 +49,7 @@ Install these libraries' folders to the Arduino Library folder
 
 3. Upon connection to the AP, You will be greeted with a WifiManager Window.  
 <img src="https://github.com/sleepdefic1t/Ark_Ticker_Arduino_Webserver/blob/master/img/manager1.png" width="500">  
-  Enter Scan or Enter your WiFi credentials accordingly.  
+  Scan for or Enter your WiFi credentials accordingly.  
 <img src="https://github.com/sleepdefic1t/Ark_Ticker_Arduino_Webserver/blob/master/img/manager2.png" width="500">  
   The Window will close when the connection to your specified WiFi is established.   
 
