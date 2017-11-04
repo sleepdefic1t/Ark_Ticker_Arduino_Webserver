@@ -6,7 +6,8 @@ Ark: Ticker Arduino Webserver | Configure WiFi via AP |  http://arkticker
 
 ## What is this?
 
-It is an Ark Price ticker that uses an Adafruit Huzzah ESP8266 Feather to make an AP-configurable Wireless Webserver.
+It is an Ark Price ticker that uses an Adafruit Huzzah ESP8266 Feather to make an AP-configurable Wireless Webserver;  
+it uses the [***CoinMarketCap API***](https://coinmarketcap.com/api/).
 
 -----
 
