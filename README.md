@@ -7,14 +7,26 @@ Using ESP8266
 ### Required Libraries
 
 
+Install using the Arduino IDE's Additional Boards Manager:  
+*****Arduino IDE***** > ***Preferences*** > ***'Additional Boards Manager URL's'***
+
+| | |
+|:--- |:--- |
+| **ESP8266 Library** | add the following line:<br>`http://arduino.esp8266.com/stable/package_esp8266com_index.json` |
+
+
+Install these libraries' folders to the Arduino Library folder    
+***~/Documents/Arduino/libraries***  
+
 | | |
 |:--- |:--- |
 | | |
-| **ESP8266 Library** | using the Arduino IDE's Additional Boards Manager <br> *****Arduino IDE***** > ***Preferences*** > ***'Additional Boards Manager URL's'*** <br> add the following line:  <br>`http://arduino.esp8266.com/stable/package_esp8266com_index.json` <br> |
+| **Arduino JSON Library** | `https://github.com/bblanchon/ArduinoJson` |
 | | |
-| **Arduino JSON Library** | `https://github.com/bblanchon/ArduinoJson` <br> add folder to ***~/Documents/Arduino/libraries*** |
+| **CoinMarketCap API Library** | https://github.com/bblanchon/ArduinoJson |
 | | |
-| **CoinMarketCap API Library** | https://github.com/bblanchon/ArduinoJson <br> add folder to ***~/Documents/Arduino/libraries*** |
+| **WiFiManager Library** | https://github.com/tzapu/WiFiManager |
 | | |
+
 
 
