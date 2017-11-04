@@ -2,12 +2,13 @@
 
 Ark: Ticker Arduino Webserver | Configure WiFi via AP |  http://arkticker
 
-Using ESP8266
+-----
 
-### What is this?
+## What is this?
 
 It is an Ark Price ticker that uses an Adafruit Huzzah ESP8266 Feather to make an AP-configurable Wireless Webserver.
 
+-----
 
 ### Required Libraries
 
@@ -37,7 +38,7 @@ Install these libraries' folders to the Arduino Library folder
 
 ## How to Use it
 
-1. Install the libraries, and flash the included ***'.ino'*** file.
+1. Install the libraries, and flash the included ***'.ino'*** file.  
 
 #
 
